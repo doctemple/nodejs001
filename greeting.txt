@@ -1,2 +1,0 @@
-me: Hello Git
-git: Hey, Good to see you.
